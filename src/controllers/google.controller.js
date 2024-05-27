@@ -13,7 +13,7 @@ const getGoogleUser = async (req, res) => {
     code,
     clientId: GOOGLE_CLIENT_ID,
     clientSecret: GOOGLE_CLIENT_SECRET,
-    redirectUri: `https://bewakoof-com-topaz.vercel.app/users/auth/google/callback`,
+    redirectUri: `https://bewakoof12.vercel.app//users/auth/google/callback`,
   });
 
   // Fetch the user's profile with the access token and bearer
@@ -30,7 +30,7 @@ const getGoogleUser = async (req, res) => {
     });
     console.log(token);
   }
-  res.redirect("https://heady-rabbits-8957.vercel.app/?" + token);
+  res.redirect("https://bewakoof-frontend.onrender.com/?" + token);
 };
 
 function getTokens({ code, clientId, clientSecret, redirectUri }) {
