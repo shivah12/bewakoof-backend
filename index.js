@@ -15,7 +15,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 const corsOptions = {
-  origin: true,
+  origin: "https://bewakoof-frontend.onrender.com/",
   credentials: true, //included credentials as true
 };
 
