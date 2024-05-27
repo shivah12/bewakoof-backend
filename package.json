@@ -1,0 +1,32 @@
+{
+  "name": "heady-rabbits-8957",
+  "version": "1.0.0",
+  "description": "<h1>Project-Code:heady-rabbits-8957<h1>\r     <h1>Project-Name:Bewakoof.com<h1>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshit3010/heady-rabbits-8957.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshit3010/heady-rabbits-8957/issues"
+  },
+  "homepage": "https://github.com/Akshit3010/heady-rabbits-8957#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.5",
+    "nodemon": "^2.0.19",
+    "query-string": "^7.1.1"
+  }
+}
