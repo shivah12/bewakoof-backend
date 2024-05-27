@@ -1,7 +1,7 @@
 {
-  "name": "heady-rabbits-8957",
+  "name": "bewakoofclone",
   "version": "1.0.0",
-  "description": "<h1>Project-Code:heady-rabbits-8957<h1>\r     <h1>Project-Name:Bewakoof.com<h1>",
+  "description": "clone",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js",
@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akshit3010/heady-rabbits-8957.git"
+    
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Akshit3010/heady-rabbits-8957/issues"
-  },
   "homepage": "https://github.com/Akshit3010/heady-rabbits-8957#readme",
   "dependencies": {
     "axios": "^0.27.2",
