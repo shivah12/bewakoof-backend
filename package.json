@@ -7,14 +7,10 @@
     "dev": "node index.js",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/Akshit3010/heady-rabbits-8957#readme",
+  "homepage": "https://github.com/shivah12/bewakoof-backend#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "cookie-parser": "^1.4.6",
